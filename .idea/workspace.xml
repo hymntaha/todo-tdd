@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de0c18a-d7a9-4882-84c9-915e1951593f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/integration/todo.controller.int.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/todo.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601440112428</updated>
       <workItem from="1601440113668" duration="3068000" />
-      <workItem from="1601505859776" duration="809000" />
+      <workItem from="1601505859776" duration="1225000" />
     </task>
     <servers />
   </component>
