@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de0c18a-d7a9-4882-84c9-915e1951593f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mongodb/mongodb.connect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/todo.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/todo.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/unit/todo.controller.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/unit/todo.controller.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
       <updated>1601440112428</updated>
       <workItem from="1601440113668" duration="3068000" />
       <workItem from="1601505859776" duration="1541000" />
-      <workItem from="1601659775859" duration="1715000" />
+      <workItem from="1601659775859" duration="2023000" />
     </task>
     <servers />
   </component>
