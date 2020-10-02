@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de0c18a-d7a9-4882-84c9-915e1951593f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/routes/todo.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongodb/mongodb.connect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/todo.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/todo.controller.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601440112428</updated>
       <workItem from="1601440113668" duration="3068000" />
-      <workItem from="1601505859776" duration="1225000" />
+      <workItem from="1601505859776" duration="1541000" />
+      <workItem from="1601659775859" duration="1715000" />
     </task>
     <servers />
   </component>
@@ -48,5 +53,9 @@
       <screen x="3440" y="23" width="3440" height="1417" />
     </state>
     <state x="4115" y="504" key="#com.intellij.fileTypes.FileTypeChooser/0.23.3440.1363/3440.23.3440.1417@3440.23.3440.1417" timestamp="1601440418505" />
+    <state x="3988" y="343" key="SettingsEditor" timestamp="1601659864607">
+      <screen x="3440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="3988" y="343" key="SettingsEditor/0.23.3440.1363/3440.23.3440.1417@3440.23.3440.1417" timestamp="1601659864607" />
   </component>
 </project>
